@@ -1,2 +1,2 @@
 # Kotlin
- kotlin java app
+ kotlin IQ tester and career decider 
