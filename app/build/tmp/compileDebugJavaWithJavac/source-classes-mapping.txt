@@ -1,0 +1,24 @@
+com/example/abovethebox/databinding/ActivityComBinding.java
+ com.example.abovethebox.databinding.ActivityComBinding
+com/example/abovethebox/databinding/ActivityArtsBinding.java
+ com.example.abovethebox.databinding.ActivityArtsBinding
+com/example/abovethebox/databinding/ActivityHomeBinding.java
+ com.example.abovethebox.databinding.ActivityHomeBinding
+com/example/abovethebox/databinding/ActivityIq3Binding.java
+ com.example.abovethebox.databinding.ActivityIq3Binding
+com/example/abovethebox/BuildConfig.java
+ com.example.abovethebox.BuildConfig
+com/example/abovethebox/databinding/ActivityIqBinding.java
+ com.example.abovethebox.databinding.ActivityIqBinding
+com/example/abovethebox/databinding/ActivitySciBinding.java
+ com.example.abovethebox.databinding.ActivitySciBinding
+com/example/abovethebox/databinding/ActivityMainBinding.java
+ com.example.abovethebox.databinding.ActivityMainBinding
+com/example/abovethebox/databinding/ActivityOtpBinding.java
+ com.example.abovethebox.databinding.ActivityOtpBinding
+com/example/abovethebox/databinding/ActivityIqFinalBinding.java
+ com.example.abovethebox.databinding.ActivityIqFinalBinding
+com/example/abovethebox/databinding/ActivityCareerBinding.java
+ com.example.abovethebox.databinding.ActivityCareerBinding
+com/example/abovethebox/databinding/ActivityIq2Binding.java
+ com.example.abovethebox.databinding.ActivityIq2Binding

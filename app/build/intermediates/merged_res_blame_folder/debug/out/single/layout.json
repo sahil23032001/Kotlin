@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_arts.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_arts.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_career.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_career.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_iq_final.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_iq_final.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_com.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_com.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_home.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_otp.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_otp.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_iq.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_iq.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_iq3.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_iq3.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_iq2.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_iq2.xml"
+    },
+    {
+        "merged": "D:\\Abovethebox\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_sci.xml",
+        "source": "D:\\Abovethebox\\app\\src\\main\\res\\layout\\activity_sci.xml"
+    }
+]
